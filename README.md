@@ -3,11 +3,11 @@
 :link: Check out my [portfolio site](http://www.mikeback.me "mikeback.me") or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
 
 **Sections:**  |
-[Courses](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#courses-taken)  |
-[Front-End](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#front-end)  |
-[Back-End](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#back-end)  |
-[Other](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#other)  |
-[Projects](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#projects)  |
+[Courses](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#courses-taken) |
+[Front-End](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#front-end) |
+[Back-End](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#back-end) |
+[Other](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#other) |
+[Credits](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#credits) |
 
 ---
 
@@ -38,7 +38,7 @@
 ## Back-End
 | Tech            |  Beginner  |  Intermediate  |  Advanced  | 
 |-----------------|:----------:|:--------------:|:----------:|
-|node.js  |   :large_blue_diamond:       |     :large_orange_diamond:         |          |
+|node.js  |   :large_blue_diamond:       |     :large_orange_diamond:         | :green_square:         |
 |Mongodb  |    :small_blue_diamond:       |              |          |
 |Mongoose |    :nut_and_bolt:      |              |          |
 |Express  |    :octocat:       |              |          |
@@ -48,6 +48,10 @@
 ## Other  
 | Tech            |  Beginner  |  Intermediate  |  Advanced  | 
 |-----------------|:----------:|:--------------:|:----------:|
-|Git and GitHub   |          |              |          |
-|Netlify          |          |              |          |
-|Heroku           |          |              |          |
+|Git and GitHub   |            |              |          |
+|Netlify          |            |              |          |
+|Heroku           |            |              |          |
+
+## Credits
+Big thanks to [Syknapse](https://github.com/Syknapse) for the idea for this [tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) and [bmorelli25](https://github.com/bmorelli25) for his awesome resourse ["Become a Full Stack Developer"](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+

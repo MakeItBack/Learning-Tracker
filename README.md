@@ -12,26 +12,38 @@ Check out my [portfolio site](http://www.mikeback.me "mikeback.me") or jump to m
 |Functional Programming Series | Fun Fun Function / YouTube |
 
 
+## Front-End Technologies
+| Tech        | Beginner | Intermediate | Advanced | 
+|-------------|----------|--------------|----------|
+|HTML         |          |   |   |
+|CSS          |          |   |   |
+|Javascript   |          |   |   |
+|Bootstrap    |          |   |   |
+|jQuery       |          |   |   |
+|Sematic UI   |          |   |   |
+
+## Back-End Technologies
+| Tech    | Beginner | Intermediate | Advanced | 
+|---------|----------|--------------|----------|
+|node.js  |          |              |   |
+|Mongodb  |          |              |   |
+|Mongoose |          |              |   |
+|Express  |          |              |   |
+|Passport |          |              |   |
+
+
+## Other  
+| Tech            | Beginner | Intermediate | Advanced | 
+|-----------------|----------|--------------|----------|
+|Git and GitHub   |          |              |          |
+|Netlify          |
+|Heroku
 
 ## Projects
-| Project | Date | Technologies | Repo Link |  Deploy Link |
-|---------|------|--------------|-----------|--------------|
-|  |   |   |
-
-## Front End Technologies
-| Tech    | Beginner | Intermediate | Advanced | 
-|---------|----------|--------------|----------|
-|HTML|  |   |   |
-|CSS|  |   |   |
-|Javascript|  |   |   |
-|Bootstrap|  |   |   |
-|jQuery|  |   |   |
-|Sematic UI|  |   |   |
-
-## Front End Technologies
-| Tech    | Beginner | Intermediate | Advanced | 
-|---------|----------|--------------|----------|
-|node.js|   |   |   |
-|Mongodb|  |   |   |
-|Express|  |   |   |
-|Passport|  |   |   |
+| Project      | Date | Technologies | Repo Link |  Deploy Link |
+|--------------|------|--------------|-----------|--------------|
+|RGB Game      |   |   |
+|Ratatat       |   |   |
+|IMdb Search   |   |   |
+|MikeCamp      |   |   |
+|Dice Roller   |   |   |

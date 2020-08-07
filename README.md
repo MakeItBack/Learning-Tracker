@@ -1,5 +1,7 @@
 # Learning-Tracker
-A place to keep track of my learning and progress
+### A place to keep track of my learning and progress
+
+---
 
 Courses Taken
 

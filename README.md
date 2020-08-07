@@ -1,6 +1,6 @@
 # Learning-Tracker
 ##### This is a place to keep track of my learning and progress towards web development mastery!
-Check out my [portfolio site](http://www.mikeback.me "mikeback.me") or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
+:link: Check out my [portfolio site](http://www.mikeback.me "mikeback.me") or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
 
 **Sections:**  |
 [Courses](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#courses-taken)  |
@@ -18,36 +18,36 @@ Check out my [portfolio site](http://www.mikeback.me "mikeback.me") or jump to m
 |[Javascript One day Workshop](https://www.notion.so/Javascript-full-day-b247e04e91434dfea004f58c39399ecc) | Ben Quartermaine / Le Wagon |May 2020|:heavy_check_mark:| -- |
 |[Functional Programming Series](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) | Fun Fun Function / YouTube | June 2020 |:heavy_check_mark:| -- | 
 |[Git Started with GitHub](https://www.udemy.com/course/git-started-with-github) | Jason Taylor / Udemy | July 2020 |:heavy_check_mark:| [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/Git%20Started%20with%20Git%20ansd%20Github%20(certificate).jpg "View Cerificate") |
-|[The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) | Colt Steele & Stephen Girder / Udemy | July 2020 |In-progress |  |
+|[The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) | Colt Steele & Stephen Girder / Udemy | July 2020 |[:clock3:](# "In progress")|  |
 
 
 ## Front-End
-| Tech        | Beginner | Intermediate | Advanced | 
-|-------------|----------|--------------|----------|
-|HTML         |          |              |          |
-|CSS          |          |              |          |
-|Javascript   |          |              |          |
-|Bootstrap    |          |              |          |
-|jQuery       |          |              |          |
-|Sematic UI   |          |              |          |
-|Markdown     |          |              |          |
-|             |          |              |          |
+| Tech             |  Beginner  |  Intermediate  |  Advanced  | 
+|------------------|:----------:|:--------------:|:----------:|
+|HTML              | :dart:   |              |       |
+|CSS               |   :radio_button:       |              |          |
+|Javascript        | :green_circle:         |             |          |
+|Bootstrap         |     :gear:     |              |          |
+|jQuery            |    :atom:       |              |          |
+|Semantic UI       |  :orange_circle:       |             |          |
+|Markdown          |  :white_circle:        |              |          |
+|                  | :electron:        |              |          |
 
 
 
 ## Back-End
-| Tech    | Beginner | Intermediate | Advanced | 
-|---------|----------|--------------|----------|
-|node.js  |          |              |          |
-|Mongodb  |          |              |          |
-|Mongoose |          |              |          |
-|Express  |          |              |          |
-|Passport |          |              |          |
+| Tech            |  Beginner  |  Intermediate  |  Advanced  | 
+|-----------------|:----------:|:--------------:|:----------:|
+|node.js  |   :large_blue_diamond:       |     :large_orange_diamond:         |          |
+|Mongodb  |    :small_blue_diamond:       |              |          |
+|Mongoose |    :nut_and_bolt:      |              |          |
+|Express  |    :octocat:       |              |          |
+|Passport |    :keyboard:         |              |          |
 
 
 ## Other  
-| Tech            | Beginner | Intermediate | Advanced | 
-|-----------------|----------|--------------|----------|
+| Tech            |  Beginner  |  Intermediate  |  Advanced  | 
+|-----------------|:----------:|:--------------:|:----------:|
 |Git and GitHub   |          |              |          |
 |Netlify          |          |              |          |
 |Heroku           |          |              |          |

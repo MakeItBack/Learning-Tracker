@@ -2,12 +2,13 @@
 ##### This is a place to keep track of my learning and progress towards web development mastery!
 Check out my [portfolio site](http://www.mikeback.me "mikeback.me") or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
 
-Sections
-[Courses Taken](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#courses-taken)
-[Front-End Tech]()
-[Back-End Tech]()
-[Other Tech]()
-[Projects]()
+**Sections:**  |
+[Courses](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#courses-taken)  |
+[Front-End](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#front-end)  |
+[Back-End](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#back-end)  |
+[Other](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#other)  |
+[Projects](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#projects)  |
+
 ---
 
 ## Courses Taken
@@ -18,7 +19,7 @@ Sections
 |Functional Programming Series | Fun Fun Function / YouTube |
 
 
-## Front-End Technologies
+## Front-End
 | Tech        | Beginner | Intermediate | Advanced | 
 |-------------|----------|--------------|----------|
 |HTML         |          |   |   |
@@ -28,7 +29,7 @@ Sections
 |jQuery       |          |   |   |
 |Sematic UI   |          |   |   |
 
-## Back-End Technologies
+## Back-End
 | Tech    | Beginner | Intermediate | Advanced | 
 |---------|----------|--------------|----------|
 |node.js  |          |              |   |

@@ -2,6 +2,12 @@
 ##### This is a place to keep track of my learning and progress towards web development mastery!
 Check out my [portfolio site](http://www.mikeback.me "mikeback.me") or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
 
+Sections
+[Courses Taken](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#courses-taken)
+[Front-End Tech]()
+[Back-End Tech]()
+[Other Tech]()
+[Projects]()
 ---
 
 ## Courses Taken

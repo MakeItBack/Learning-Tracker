@@ -24,35 +24,39 @@ Check out my [portfolio site](http://www.mikeback.me "mikeback.me") or jump to m
 ## Front-End
 | Tech        | Beginner | Intermediate | Advanced | 
 |-------------|----------|--------------|----------|
-|HTML         |          |   |   |
-|CSS          |          |   |   |
-|Javascript   |          |   |   |
-|Bootstrap    |          |   |   |
-|jQuery       |          |   |   |
-|Sematic UI   |          |   |   |
+|HTML         |          |              |          |
+|CSS          |          |              |          |
+|Javascript   |          |              |          |
+|Bootstrap    |          |              |          |
+|jQuery       |          |              |          |
+|Sematic UI   |          |              |          |
+|Markdown     |          |              |          |
+|             |          |              |          |
+
+
 
 ## Back-End
 | Tech    | Beginner | Intermediate | Advanced | 
 |---------|----------|--------------|----------|
-|node.js  |          |              |   |
-|Mongodb  |          |              |   |
-|Mongoose |          |              |   |
-|Express  |          |              |   |
-|Passport |          |              |   |
+|node.js  |          |              |          |
+|Mongodb  |          |              |          |
+|Mongoose |          |              |          |
+|Express  |          |              |          |
+|Passport |          |              |          |
 
 
 ## Other  
 | Tech            | Beginner | Intermediate | Advanced | 
 |-----------------|----------|--------------|----------|
 |Git and GitHub   |          |              |          |
-|Netlify          |
-|Heroku
+|Netlify          |          |              |          |
+|Heroku           |          |              |          |
 
 ## Projects
 | Project      | Date | Technologies | Repo Link |  Deploy Link |
 |--------------|------|--------------|-----------|--------------|
-|RGB Game      |   |   |
-|Ratatat       |   |   |
-|IMdb Search   |   |   |
-|MikeCamp      |   |   |
-|Dice Roller   |   |   |
+|RGB Game      |          |          |              |          |
+|Ratatat       |          |          |              |          |
+|IMdb Search   |          |          |              |          |
+|MikeCamp      |          |          |              |          |
+|Dice Roller   |          |          |              |          |

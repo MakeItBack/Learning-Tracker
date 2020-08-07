@@ -15,9 +15,9 @@ Check out my [portfolio site](http://www.mikeback.me "mikeback.me") or jump to m
 | Course | Tutor / School | Date (started) | Status |  Certificate |
 |--------|----------------|:----------------:|:--------:|:--------------:|
 |[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp "The Web Developers Bootcamp")|Colt Steele / Udemy|April 2019|:heavy_check_mark:|[![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/Certificate%20-%20WDB_ColtSteele_Udemy.jpg "View Cerificate") |
-|[Javascript One day Workshop](https://www.notion.so/Javascript-full-day-b247e04e91434dfea004f58c39399ecc) | Ben Quartermaine / Le Wagon |May 2020| Complete | |
-|[Functional Programming Series](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) | Fun Fun Function / YouTube | June 2020 | Complete | 
-|[Git Started with GitHub](https://www.udemy.com/course/git-started-with-github) | Jason Taylor / Udemy | July 2020 |Complete |  |
+|[Javascript One day Workshop](https://www.notion.so/Javascript-full-day-b247e04e91434dfea004f58c39399ecc) | Ben Quartermaine / Le Wagon |May 2020|:heavy_check_mark:| -- |
+|[Functional Programming Series](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) | Fun Fun Function / YouTube | June 2020 |:heavy_check_mark:| -- | 
+|[Git Started with GitHub](https://www.udemy.com/course/git-started-with-github) | Jason Taylor / Udemy | July 2020 |:heavy_check_mark:| [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/Git%20Started%20with%20Git%20ansd%20Github%20(certificate).jpg "View Cerificate") | |
 |[The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) | Colt Steele & Stephen Girder / Udemy | July 2020 |In-progress |  |
 
 

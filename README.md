@@ -11,7 +11,7 @@
 
 ---
 
-## Courses Taken
+## Courses and Resources
 | Course | Tutor / School | Date (started) | Status |  Certificate |
 |--------|----------------|:----------------:|:--------:|:--------------:|
 |[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp "The Web Developers Bootcamp")|Colt Steele / Udemy|April 2019|:heavy_check_mark:|[![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/Certificate%20-%20WDB_ColtSteele_Udemy.jpg "View Cerificate") |
@@ -53,5 +53,5 @@
 |Heroku           |            |              |          |
 
 ## Credits
-Big thanks to [Syknapse](https://github.com/Syknapse) for the idea for this [tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) and [bmorelli25](https://github.com/bmorelli25) for his awesome resourse ["Become a Full Stack Developer"](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+Big thanks to [Syknapse](https://github.com/Syknapse) for the idea for this [tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) and [bmorelli25](https://github.com/bmorelli25) for his massive and awesome resourse [Become a Full Stack Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 

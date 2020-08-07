@@ -14,7 +14,7 @@ Check out my [portfolio site](http://www.mikeback.me "mikeback.me") or jump to m
 ## Courses Taken
 | Course | Tutor / School | Date (started) | Status |  Certificate |
 |--------|----------------|:----------------:|:--------:|:--------------:|
-|[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp "The Web Developers Bootcamp")|Colt Steele / Udemy|April 2019|:heavy_check_mark:|![Image](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png) |
+|[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp "The Web Developers Bootcamp")|Colt Steele / Udemy|April 2019|:heavy_check_mark:|[![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/Certificate%20-%20WDB_ColtSteele_Udemy.jpg "View Cerificate") |
 |[Javascript One day Workshop](https://www.notion.so/Javascript-full-day-b247e04e91434dfea004f58c39399ecc) | Ben Quartermaine / Le Wagon |May 2020| Complete | |
 |[Functional Programming Series](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) | Fun Fun Function / YouTube | June 2020 | Complete | 
 |[Git Started with GitHub](https://www.udemy.com/course/git-started-with-github) | Jason Taylor / Udemy | July 2020 |Complete |  |

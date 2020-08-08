@@ -4,9 +4,9 @@
 :link: Check out my [portfolio site](http://www.mikeback.me "mikeback.me") (*coming soon!*) or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
 
 **Sections:**  |
-[Courses](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#courses-taken) |
-[Front-End](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#front-end) |
-[Back-End](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#back-end) |
+[Courses Taken](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#courses-and-resources) |
+[Front-End Skills](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#front-end) |
+[Back-End Skills](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#back-end) |
 [Other](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#other) |
 [Credits](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#credits) |
 

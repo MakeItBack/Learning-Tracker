@@ -24,13 +24,13 @@
 ## Front-End
 | Tech             |  Beginner  |  Intermediate  |  Advanced  | 
 |------------------|:----------:|:--------------:|:----------:|
-|HTML              | :dart:   |              |       |
-|CSS               |   :radio_button:       |              |          |
-|Javascript        | :green_circle:         |             |          |
-|Bootstrap         |     :gear:     |              |          |
-|jQuery            |    :atom:       |              |          |
-|Semantic UI       |  :orange_circle:       |             |          |
-|Markdown          |  :white_circle:        |              |          |
+|HTML              | :dart:   |    :white_circle:          |       |
+|CSS               | :large_blue_diamond:        |              |          |
+|Javascript        |  :large_orange_diamond:        |             |          |
+|Bootstrap         |          |              |          |
+|jQuery            |          |              |          |
+|Semantic UI       |         |             |          |
+|Markdown          |          |              |          |
 
 
 
@@ -38,14 +38,14 @@
 ## Back-End
 | Tech            |  Beginner  |  Intermediate  |  Advanced  | 
 |-----------------|:----------:|:--------------:|:----------:|
-|node.js          |   :large_blue_diamond:       |     :large_orange_diamond:         | :green_square:         |
-|Mongodb          |    :small_blue_diamond:       |              |          |
-|Mongoose         |    :nut_and_bolt:      |              |          |
-|Express          |    :octocat:       |              |          |
-|Passport         |    :keyboard:         |              |          |
-|Command Line     |    :keyboard:         |              |          |
-|NPM              |    :keyboard:         |              |          |
-|Passport         |    :keyboard:         |              |          |
+|node.js          |         |              |          |
+|Mongodb          |           |              |          |
+|Mongoose         |          |              |          |
+|Express          |           |              |          |
+|Passport         |             |              |          |
+|Command Line     |             |              |          |
+|NPM              |             |              |          |
+|Passport         |             |              |          |
 
 
 

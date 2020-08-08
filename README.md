@@ -31,18 +31,23 @@
 |jQuery            |    :atom:       |              |          |
 |Semantic UI       |  :orange_circle:       |             |          |
 |Markdown          |  :white_circle:        |              |          |
-|                  | :electron:        |              |          |
+
 
 
 
 ## Back-End
 | Tech            |  Beginner  |  Intermediate  |  Advanced  | 
 |-----------------|:----------:|:--------------:|:----------:|
-|node.js  |   :large_blue_diamond:       |     :large_orange_diamond:         | :green_square:         |
-|Mongodb  |    :small_blue_diamond:       |              |          |
-|Mongoose |    :nut_and_bolt:      |              |          |
-|Express  |    :octocat:       |              |          |
-|Passport |    :keyboard:         |              |          |
+|node.js          |   :large_blue_diamond:       |     :large_orange_diamond:         | :green_square:         |
+|Mongodb          |    :small_blue_diamond:       |              |          |
+|Mongoose         |    :nut_and_bolt:      |              |          |
+|Express          |    :octocat:       |              |          |
+|Passport         |    :keyboard:         |              |          |
+|Command Line     |    :keyboard:         |              |          |
+|NPM              |    :keyboard:         |              |          |
+|Passport         |    :keyboard:         |              |          |
+
+
 
 
 ## Other  

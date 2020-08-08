@@ -1,6 +1,6 @@
 # Learning-Tracker
 ##### This is a place to keep track of my learning and progress towards web development mastery!
-:link: Check out my [portfolio site](http://www.mikeback.me "mikeback.me") or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
+:link: Check out my [portfolio site (*coming soon!*)](http://www.mikeback.me "mikeback.me") or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
 
 **Sections:**  |
 [Courses](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#courses-taken) |
@@ -58,5 +58,7 @@
 |Heroku           | :large_blue_diamond: | :large_blue_diamond: |                      |  
 
 ## Credits
-Big thanks to [Syknapse](https://github.com/Syknapse) for the idea for this [tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) and [bmorelli25](https://github.com/bmorelli25) for his massive and awesome resourse [Become a Full Stack Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+Big thanks to [Syknapse](https://github.com/Syknapse) for the idea for this [tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) and [bmorelli25](https://github.com/bmorelli25) for his massive and awesome resourse [Become a Full Stack Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer).
+
+**Feel free to clone or adapt any parts of this doc that you find useful**
 

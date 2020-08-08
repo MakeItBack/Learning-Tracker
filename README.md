@@ -22,40 +22,40 @@
 
 
 ## Front-End
-| Tech             |  Beginner  |  Intermediate  |  Advanced  | 
-|------------------|:----------:|:--------------:|:----------:|
-|HTML              | :dart:   |    :white_circle:          |       |
-|CSS               | :large_blue_diamond:        |              |          |
-|Javascript        |  :large_orange_diamond:        |             |          |
-|Bootstrap         |          |              |          |
-|jQuery            |          |              |          |
-|Semantic UI       |         |             |          |
-|Markdown          |          |              |          |
+| Tech            |       Basic          |      Competent       |       Advanced       | 
+|-----------------|:--------------------:|:--------------------:|:--------------------:|
+|HTML             | :large_blue_diamond: | :large_blue_diamond:          |       |
+|CSS              | :large_blue_diamond: |              |          |
+|Javascript       | :large_blue_diamond: |             |          |
+|Bootstrap        | :large_blue_diamond: | :large_blue_diamond:             |          |
+|jQuery           | :large_blue_diamond: |              |          |
+|Semantic UI      | :large_blue_diamond: |             |          |
+|Markdown         | :large_blue_diamond: | :large_blue_diamond: |          |
 
 
 
 
 ## Back-End
-| Tech            |  Beginner  |  Intermediate  |  Advanced  | 
-|-----------------|:----------:|:--------------:|:----------:|
-|node.js          |         |              |          |
-|Mongodb          |           |              |          |
-|Mongoose         |          |              |          |
-|Express          |           |              |          |
-|Passport         |             |              |          |
-|Command Line     |             |              |          |
-|NPM              |             |              |          |
-|Passport         |             |              |          |
+| Tech            |       Basic          |      Competent       |       Advanced       | 
+|-----------------|:--------------------:|:--------------------:|:--------------------:|
+|node.js          | :large_blue_diamond: |  |  | 
+|Mongodb          | :large_blue_diamond: |  |  |
+|Mongoose         | :large_blue_diamond: |              |          |
+|Express          | :large_blue_diamond: |              |          |
+|Passport         | :large_blue_diamond: |        |           |
+|Command Line     | :large_blue_diamond: |           |              |          |
+|NPM              | :large_blue_diamond: |              |          |
+|Passport         | :large_blue_diamond: |              |          |
 
 
 
 
 ## Other  
-| Tech            |  Beginner  |  Intermediate  |  Advanced  | 
-|-----------------|:----------:|:--------------:|:----------:|
-|Git and GitHub   |            |              |          |
-|Netlify          |            |              |          |
-|Heroku           |            |              |          |
+| Tech            |       Basic          |      Competent       |       Advanced       | 
+|-----------------|:--------------------:|:--------------------:|:--------------------:|
+|Git and GitHub   | :large_blue_diamond: | :large_blue_diamond: |                      |   
+|Netlify          | :large_blue_diamond: | :large_blue_diamond: |                      |          
+|Heroku           | :large_blue_diamond: | :large_blue_diamond: |                      |  
 
 ## Credits
 Big thanks to [Syknapse](https://github.com/Syknapse) for the idea for this [tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) and [bmorelli25](https://github.com/bmorelli25) for his massive and awesome resourse [Become a Full Stack Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)

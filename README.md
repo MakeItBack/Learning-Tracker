@@ -1,6 +1,6 @@
 # Learning-Tracker
 ##### This is a place to keep track of my learning and progress towards web development mastery!
-:link: Check out my [portfolio site](http://www.mikeback.me "mikeback.me")(*coming soon!*) or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
+:link: Check out my [portfolio site](http://www.mikeback.me "mikeback.me") (*coming soon!*) or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
 
 **Sections:**  |
 [Courses](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#courses-taken) |

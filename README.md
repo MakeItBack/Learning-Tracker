@@ -9,6 +9,7 @@
 [Back-End Skills](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#back-end) |
 [Other](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#other) |
 [Credits](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#credits) |
+[License](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#license) |
 
 ---
 
@@ -62,5 +63,7 @@
 ## Credits
 Big thanks to [Syknapse](https://github.com/Syknapse) for the idea for this [tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) and [bmorelli25](https://github.com/bmorelli25) for his massive and awesome resourse [Become a Full Stack Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer).
 
+## License
+This project is licensed under the terms of the BSD 3-clause "New" or "Revised" license.<br>
 **Feel free to clone or adapt any parts of this doc that you find useful**
 

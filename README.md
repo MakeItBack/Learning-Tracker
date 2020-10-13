@@ -31,6 +31,7 @@
 |CSS              | :large_blue_diamond: | :large_blue_diamond:          |       |
 |Javascript       | :large_blue_diamond: |             |          |
 |Bootstrap        | :large_blue_diamond: | :large_blue_diamond:             |          |
+|Sass             | :large_blue_diamond: | :large_blue_diamond:             |          |
 |jQuery           | :large_blue_diamond: |              |          |
 |Semantic UI      | :large_blue_diamond: |             |          |
 |Markdown         | :large_blue_diamond: | :large_blue_diamond: |          |

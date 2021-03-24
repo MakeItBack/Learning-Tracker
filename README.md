@@ -28,14 +28,14 @@
 ## Front-End
 | Tech            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|HTML             | :large_blue_diamond: | :large_blue_diamond:          |       |
-|CSS              | :large_blue_diamond: | :large_blue_diamond:          |       |
-|Javascript       | :large_blue_diamond: |             |          |
-|Bootstrap        | :large_blue_diamond: | :large_blue_diamond:             |          |
-|Sass             | :large_blue_diamond: | :large_blue_diamond:             |          |
-|jQuery           | :large_blue_diamond: |              |          |
-|Semantic UI      | :large_blue_diamond: |             |          |
-|Markdown         | :large_blue_diamond: | :large_blue_diamond: |          |
+|HTML             | :large_blue_diamond: | :large_blue_diamond: |      |
+|CSS              | :large_blue_diamond: | :large_blue_diamond: |      |
+|Javascript       | :large_blue_diamond: | :large_blue_diamond: |      |
+|Bootstrap        | :large_blue_diamond: | :large_blue_diamond: |      |
+|Sass             | :large_blue_diamond: | :large_blue_diamond: |      |
+|jQuery           | :large_blue_diamond: |                      |      |
+|Semantic UI      | :large_blue_diamond: |                      |      |
+|Markdown         | :large_blue_diamond: | :large_blue_diamond: |      |
 
 
 
@@ -43,14 +43,14 @@
 ## Back-End
 | Tech            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|node.js          | :large_blue_diamond: |  |  | 
-|Mongodb          | :large_blue_diamond: |  |  |
-|Mongoose         | :large_blue_diamond: |              |          |
-|Express          | :large_blue_diamond: |              |          |
-|Passport         | :large_blue_diamond: |        |           |
-|Command Line     | :large_blue_diamond: |           |              |          |
-|NPM              | :large_blue_diamond: |              |          |
-|Passport         | :large_blue_diamond: |              |          |
+|node.js          | :large_blue_diamond: |  |          | 
+|Mongodb          | :large_blue_diamond: |  |          |
+|Mongoose         | :large_blue_diamond: |  |          |
+|Express          | :large_blue_diamond: |  |          |
+|Passport         | :large_blue_diamond: |  |          |
+|Command Line     | :large_blue_diamond: |  |          |
+|NPM              | :large_blue_diamond: |  |          |
+|Passport         | :large_blue_diamond: |  |          |
 
 
 

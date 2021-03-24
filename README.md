@@ -22,6 +22,7 @@
 |[Git Started with GitHub](https://www.udemy.com/course/git-started-with-github) | Jason Taylor / Udemy | July 2020 |[:heavy_check_mark:](# "Complete")| [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/Git%20Started%20with%20Git%20ansd%20Github%20(certificate).jpg "View Cerificate") |
 |[The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) | Colt Steele & Stephen Girder / Udemy | July 2020 |[:clock3:](# "In progress")|  |
 |[Responsive Web Design Certification](https://www.freecodecamp.org/learn) | freeCodeCamp | Aug 2020 |[:heavy_check_mark:](# "Complete")| [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/responsive_web_design.jpg "View Cerificate") |
+|[The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) | Colt Steele / Udemy | Jan 2021 |[:clock3:](# "In progress")| |
 
 
 ## Front-End

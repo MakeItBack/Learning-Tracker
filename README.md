@@ -23,6 +23,7 @@
 |[The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) | Colt Steele & Stephen Girder / Udemy | July 2020 |[:clock3:](# "In progress")|  |
 |[Responsive Web Design Certification](https://www.freecodecamp.org/learn) | freeCodeCamp | Aug 2020 |[:heavy_check_mark:](# "Complete")| [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/responsive_web_design.jpg "View Cerificate") |
 |[The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) | Colt Steele / Udemy | Jan 2021 |[:clock3:](# "In progress")| |
+|[JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass) | Colt Steele / Udemy |  || |
 
 
 ## Front-End

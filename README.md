@@ -60,7 +60,8 @@
 ## Other  
 | Tech            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|Git and GitHub   | :large_blue_diamond: | :large_blue_diamond: |                      |   
+|Git              | :large_blue_diamond: | :large_blue_diamond: |                      |   
+|GitHub           | :large_blue_diamond: | :large_blue_diamond: |                      |   
 |Netlify          | :large_blue_diamond: | :large_blue_diamond: |                      |          
 |Heroku           | :large_blue_diamond: | :large_blue_diamond: |                      |  
 |Mocha            | :large_blue_diamond: |                      |                      |  

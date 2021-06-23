@@ -37,6 +37,7 @@
 |jQuery           | :large_blue_diamond: |                      |      |
 |Semantic UI      | :large_blue_diamond: |                      |      |
 |Markdown         | :large_blue_diamond: | :large_blue_diamond: |      |
+|React            | :large_blue_diamond: |                      |      |
 
 
 
@@ -62,6 +63,8 @@
 |Git and GitHub   | :large_blue_diamond: | :large_blue_diamond: |                      |   
 |Netlify          | :large_blue_diamond: | :large_blue_diamond: |                      |          
 |Heroku           | :large_blue_diamond: | :large_blue_diamond: |                      |  
+|Mocha            | :large_blue_diamond: |                      |                      |  
+
 
 ## Credits
 Big thanks to [Syknapse](https://github.com/Syknapse) for the idea for this [tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) and [bmorelli25](https://github.com/bmorelli25) for his massive and awesome resourse [Become a Full Stack Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer).

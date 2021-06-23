@@ -45,13 +45,13 @@
 ## Back-End
 | Tech            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|node.js          | :large_blue_diamond: |  |          | 
+|node.js          | :large_blue_diamond: | :large_blue_diamond:  |          | 
 |Mongodb          | :large_blue_diamond: |  |          |
 |Mongoose         | :large_blue_diamond: |  |          |
 |Express          | :large_blue_diamond: |  |          |
 |Passport         | :large_blue_diamond: |  |          |
-|Command Line     | :large_blue_diamond: |  |          |
-|NPM              | :large_blue_diamond: |  |          |
+|Command Line     | :large_blue_diamond: | :large_blue_diamond: |          |
+|NPM              | :large_blue_diamond: | :large_blue_diamond: |          |
 |Passport         | :large_blue_diamond: |  |          |
 
 

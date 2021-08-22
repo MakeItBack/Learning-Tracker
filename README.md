@@ -55,7 +55,9 @@
 |Command Line     | :large_blue_diamond: | :large_blue_diamond: |          |
 |NPM              | :large_blue_diamond: | :large_blue_diamond: |          |
 |Passport         | :large_blue_diamond: |  |          |
-
+|Ruby             |    |    |    |
+|Python           |    |    |    |
+|SQL              |    |    |    |
 
 
 

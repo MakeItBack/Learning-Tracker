@@ -58,7 +58,7 @@
 |Ruby             |    |    |    |
 |Python           |    |    |    |
 |SQL              |    |    |    |
-
+|AWS              |    |    |    |
 
 
 ## Other  

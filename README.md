@@ -26,6 +26,8 @@
 |[JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass) | Colt Steele / Udemy |  || |
 |[Node.js Essential Training](https://www.linkedin.com/learning/node-js-essential-training-2/learn-the-node-js-fundamentals) | Linkedin Learning | Aug 2021 |[:heavy_check_mark:](# "Complete")|[![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/Node.js%20Essential%20Training.pdf "View Cerificate")  |
 |[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn) | freeCodeCamp | Aug 2021 |[:heavy_check_mark:](# "Complete") | [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/JavaScript_Algorithms_and_Data_Structures.jpg "View Cerificate")  |
+|[Postman API Testing](https://www.udemy.com/course/postman-api-testing-step-by-step-for-beginners/) | Raghav Pal / Udemy | Dec 2022 |[:clock3:](# "In progress") |   |
+
 
 
 ## Front-End
@@ -55,6 +57,8 @@
 |Command Line     | :large_blue_diamond: | :large_blue_diamond: |          |
 |NPM              | :large_blue_diamond: | :large_blue_diamond: |          |
 |Passport         | :large_blue_diamond: |  |          |
+|Postman          | :large_blue_diamond: | :large_blue_diamond: |          |
+|API              | :large_blue_diamond: |  |          |
 |Ruby             |    |    |    |
 |Python           |    |    |    |
 |SQL              |    |    |    |

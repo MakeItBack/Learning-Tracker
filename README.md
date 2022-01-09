@@ -25,8 +25,8 @@
 |[The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) | Colt Steele / Udemy | Jan 2021 |[:clock3:](# "In progress")| |
 |[JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass) | Colt Steele / Udemy |  || |
 |[Node.js Essential Training](https://www.linkedin.com/learning/node-js-essential-training-2/learn-the-node-js-fundamentals) | Linkedin Learning | Aug 2021 |[:heavy_check_mark:](# "Complete")|[![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/Node.js%20Essential%20Training.pdf "View Cerificate")  |
-|[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn) | freeCodeCamp | Aug 2021 |[:heavy_check_mark:](# "Complete") | [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/JavaScript_Algorithms_and_Data_Structures.jpg "View Cerificate")  |
-|[Postman API Testing](https://www.udemy.com/course/postman-api-testing-step-by-step-for-beginners/) | Raghav Pal / Udemy | Dec 2022 |[:heavy_check_mark:](# "Complete") | [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://www.udemy.com/certificate/UC-568e2e69-5b95-444f-9f30-f4c5d8d9dde8/ "View Cerificate") |
+|[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn) | freeCodeCamp | Aug 2021 |[:heavy_check_mark:](# "Complete") | [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://www.freecodecamp.org/certification/makeitback/javascript-algorithms-and-data-structures "View Cerificate")  |
+|[Postman API Testing](https://www.udemy.com/course/postman-api-testing-step-by-step-for-beginners/) | Raghav Pal / Udemy | Dec 2022 |[:heavy_check_mark:](# "Complete") | [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://www.ude.my/UC-568e2e69-5b95-444f-9f30-f4c5d8d9dde8/ "View Cerificate") |
 
 
 

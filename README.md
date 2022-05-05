@@ -27,7 +27,7 @@
 |[Node.js Essential Training](https://www.linkedin.com/learning/node-js-essential-training-2/learn-the-node-js-fundamentals) | Linkedin Learning | Aug 2021 |[:heavy_check_mark:](# "Complete")|[![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://github.com/MakeItBack/Learning-Tracker/blob/master/Certificates/Node.js%20Essential%20Training.pdf "View Cerificate")  |
 |[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn) | freeCodeCamp | Aug 2021 |[:heavy_check_mark:](# "Complete") | [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://www.freecodecamp.org/certification/makeitback/javascript-algorithms-and-data-structures "View Cerificate")  |
 |[Postman API Testing](https://www.udemy.com/course/postman-api-testing-step-by-step-for-beginners/) | Raghav Pal / Udemy | Jan 2022 |[:heavy_check_mark:](# "Complete") | [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://www.ude.my/UC-568e2e69-5b95-444f-9f30-f4c5d8d9dde8/ "View Cerificate") |
-|[AWS Certified Coud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) | Amazon Web Services | Jan 2022 |[:clock3:](# "In progress")| |
+|[AWS Certified Coud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) | Amazon Web Services | Jan 2022 |[:heavy_check_mark:](# "Complete")| [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://www.credly.com/badges/99b741df-b08d-47f8-bf4d-bafc9bdb6899 "View Badge")|
 
 
 

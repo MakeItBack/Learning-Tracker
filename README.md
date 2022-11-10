@@ -28,7 +28,7 @@
 |[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn) | freeCodeCamp | Aug 2021 |[:heavy_check_mark:](# "Complete") | [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://www.freecodecamp.org/certification/makeitback/javascript-algorithms-and-data-structures "View Cerificate")  |
 |[Postman API Testing](https://www.udemy.com/course/postman-api-testing-step-by-step-for-beginners/) | Raghav Pal / Udemy | Jan 2022 |[:heavy_check_mark:](# "Complete") | [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://www.ude.my/UC-568e2e69-5b95-444f-9f30-f4c5d8d9dde8/ "View Cerificate") |
 |[AWS Certified Coud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) | Amazon Web Services | Jan 2022 |[:heavy_check_mark:](# "Complete")| [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://www.credly.com/badges/99b741df-b08d-47f8-bf4d-bafc9bdb6899 "View Badge")|
-|[Mastering Typescript](https://www.udemy.com/course/learn-typescript/) | Colt Steele / Udemy | || |
+|[Mastering Typescript](https://www.udemy.com/course/learn-typescript/) | Colt Steele / Udemy | Nov 2022 | [:clock3:](# "In progress") | |
 |[Back End Development and APIs](https://www.freecodecamp.org/learn) | freeCodeCamp | Oct 2022 |[:heavy_check_mark:](# "Complete")| [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://www.freecodecamp.org/certification/makeitback/back-end-development-and-apis "View Cerificate") |
 
 

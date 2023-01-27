@@ -1,5 +1,5 @@
 # Learning Tracker
-**A place to keep track of my never-ending journey to mastery!**
+**A place to keep track of my never-ending journey towards mastery!**
 
 :link: Check out my portfolio site at [mikeback.me](https://www.mikeback.me) or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
 

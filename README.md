@@ -1,5 +1,5 @@
 # Learning Tracker
-**This is a place to keep track of progress towards web development mastery!**
+**A place to keep track of my never-ending journey to mastery!**
 
 :link: Check out my portfolio site at [mikeback.me](https://www.mikeback.me) or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
 

@@ -34,7 +34,7 @@
 
 
 ## Front-End
-| Tech            |    Fundamentals      |        Solid         |       Advanced       |  
+| Tech            |    Fundamentals      |      Confident       |       Advanced       |  
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |HTML             | :large_blue_diamond: | :large_blue_diamond: |          |
 |CSS              | :large_blue_diamond: | :large_blue_diamond: |          |
@@ -50,7 +50,7 @@
 
 
 ## Back-End
-| Tech            |    Fundamentals      |        Solid         |       Advanced       |  
+| Tech            |    Fundamentals      |      Confident       |       Advanced       |  
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |node.js          | :large_blue_diamond: | :large_blue_diamond: |          | 
 |Mongodb          | :large_blue_diamond: |                      |          |
@@ -72,7 +72,7 @@
 
 
 ## Other  
-| Tech            |    Fundamentals      |        Solid         |       Advanced       | 
+| Tech            |    Fundamentals      |      Confident       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |Git              | :large_blue_diamond: | :large_blue_diamond: |           |   
 |GitHub           | :large_blue_diamond: | :large_blue_diamond: |           |   

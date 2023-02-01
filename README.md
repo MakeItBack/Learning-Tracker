@@ -1,15 +1,20 @@
 # Learning Tracker
 **A place to keep track of my never-ending journey towards mastery!**
 
-:link: Check out my portfolio site at [mikeback.me](https://www.mikeback.me) or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
+Check out my portfolio site at [mikeback.me](https://www.mikeback.me) or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
 
-**Sections:**  |
-[Courses Taken](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#courses-and-resources) |
-[Front-End Skills](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#front-end) |
-[Back-End Skills](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#back-end) |
-[Other](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#other) |
-[Credits](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#credits) |
-[License](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#license) |
+<details>
+<summary>Table of content</summary>
+
+## Table of Content
+- [Courses Taken](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#courses-and-resources)
+- [Front-End Skills](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#front-end)
+- [Back-End Skills](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#back-end)
+- [Other](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#other)
+- [Credits](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#credits)
+- [License](https://github.com/MakeItBack/Learning-Tracker/blob/master/README.md#license)
+
+</details>
 
 ---
 

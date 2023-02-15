@@ -1,7 +1,7 @@
 # Learning Tracker
 **A place to keep track of my never-ending journey towards mastery!**
 
-Check out my portfolio site at [mikeback.me](https://www.mikeback.me) or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
+I've got a web dev portfolio site at [mikeback.me](https://www.mikeback.me) or jump to my [LinkedIn page](https://www.linkedin.com/in/mikeback "linkedin.com/in/mikeback")
 
 <details>
 <summary>Table of content</summary>

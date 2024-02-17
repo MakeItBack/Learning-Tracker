@@ -51,7 +51,8 @@ I've got a web dev portfolio site at [mikeback.me](https://www.mikeback.me) or j
 |jQuery           | :large_blue_diamond: |                      |          |
 |Semantic UI      | :large_blue_diamond: |                      |          |
 |Markdown         | :large_blue_diamond: | :large_blue_diamond: |          |
-|React            | :large_blue_diamond: |                      |          |
+|React            | :large_blue_diamond: | :large_blue_diamond: |          |
+|Typescript       | :large_blue_diamond: | :large_blue_diamond: |          |
 
 
 

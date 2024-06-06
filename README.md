@@ -46,16 +46,16 @@ I've got a web dev portfolio site at [mikeback.me](https://www.mikeback.me) or j
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |HTML             | :large_blue_diamond: | :large_blue_diamond: |          |
 |CSS              | :large_blue_diamond: | :large_blue_diamond: |          |
-|Javascript       | :large_blue_diamond: | :large_blue_diamond: |          |
+|JavaScript       | :large_blue_diamond: | :large_blue_diamond: |          |
 |Bootstrap        | :large_blue_diamond: | :large_blue_diamond: |          |
 |Sass             | :large_blue_diamond: | :large_blue_diamond: |          |
 |jQuery           | :large_blue_diamond: |                      |          |
 |Semantic UI      | :large_blue_diamond: |                      |          |
 |Markdown         | :large_blue_diamond: | :large_blue_diamond: |          |
 |React            | :large_blue_diamond: | :large_blue_diamond: |          |
-|Typescript       | :large_blue_diamond: | :large_blue_diamond: |          |
-
-
+|TypeScript       | :large_blue_diamond: | :large_blue_diamond: |          |
+|Next.js          | :large_blue_diamond: |                      |          |
+|Tailwind CSS     | :large_blue_diamond: |                      |          |
 
 
 ## Back-End
@@ -64,7 +64,7 @@ I've got a web dev portfolio site at [mikeback.me](https://www.mikeback.me) or j
 |node.js          | :large_blue_diamond: | :large_blue_diamond: |          | 
 |Mongodb          | :large_blue_diamond: |                      |          |
 |Mongoose         | :large_blue_diamond: |                      |          |
-|Express          | :large_blue_diamond: |                      |          |
+|Express          | :large_blue_diamond: | :large_blue_diamond: |          |
 |Passport         | :large_blue_diamond: |                      |          |
 |Command Line     | :large_blue_diamond: | :large_blue_diamond: |          |
 |NPM              | :large_blue_diamond: | :large_blue_diamond: |          |
@@ -74,11 +74,11 @@ I've got a web dev portfolio site at [mikeback.me](https://www.mikeback.me) or j
 |Pipedream        | :large_blue_diamond: | :large_blue_diamond: |          |
 |Ruby             |                      |                      |          |
 |Python           |                      |                      |          |
-|SQL              |                      |                      |          |
+|SQL              | :large_blue_diamond: | :large_blue_diamond: |          |
 |AWS              | :large_blue_diamond: |                      |          |
 |Netlify          | :large_blue_diamond: |                      |          |          
 |Heroku           | :large_blue_diamond: |                      |          |  
-
+|Bash Scripting   | :large_blue_diamond: |                      |          |  
 
 ## Other  
 | Tech            |    Fundamentals      |      Confident       |       Advanced       | 
@@ -86,7 +86,8 @@ I've got a web dev portfolio site at [mikeback.me](https://www.mikeback.me) or j
 |Git              | :large_blue_diamond: | :large_blue_diamond: |           |   
 |GitHub           | :large_blue_diamond: | :large_blue_diamond: |           |   
 |Jasmine          | :large_blue_diamond: |                      |           |          
-|Mocha            | :large_blue_diamond: |                      |           |  
+|Mocha            | :large_blue_diamond: |                      |           | 
+|Jest             | :large_blue_diamond: |                      |           |  
 
 
 ## Credits
